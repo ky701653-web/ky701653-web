@@ -1,12 +1,12 @@
 # 💫 About Me:
 # Hi there, I'm Krishna 👋<br><br><br> 
-🔭 Currently Working On<br>* **Projects:** Enhancing operational visibility through Zone Analysis and Car Sales Analysis.<br>* **HR Analytics:** Building a comprehensive **HR Sales Analysis** dashboard in Power BI to track and optimize performance metrics.<br><br>### 
-🌱 Currently Learning<br>* **Advanced Analytics:** Transitioning from Advanced Excel and SQL to **Python** and **Machine Learning**.<br>* **Visualization:** Mastering **Power BI** for interactive storytelling and complex data modeling.<br>* **Statistics:** Applying statistical methods to improve predictive accuracy in business and market models.<br><br>### 
-📊 Tech Stack & Tools<br>* **Languages:** SQL, Python (In Progress)<br>* **Tools:** Power BI, Advanced Excel<br>* **Domain Knowledge:** Statistics, Machine Learning (In Progress), Automotive Industry, Financial Markets<br><br>### 
+🔭 Currently Working On<br>* **Projects:** Enhancing operational visibility through Zone Analysis and Car Sales Analysis.<br>* **HR Analytics:** Building a comprehensive **HR Sales Analysis** dashboard in Power BI to track and optimize performance metrics.<br><br>
+🌱 Currently Learning<br>* **Advanced Analytics:** Transitioning from Advanced Excel and SQL to **Python** and **Machine Learning**.<br>* **Visualization:** Mastering **Power BI** for interactive storytelling and complex data modeling.<br>* **Statistics:** Applying statistical methods to improve predictive accuracy in business and market models.<br><br>
+📊 Tech Stack & Tools<br>* **Languages:** SQL, Python (In Progress)<br>* **Tools:** Power BI, Advanced Excel<br>* **Domain Knowledge:** Statistics, Machine Learning (In Progress), Automotive Industry, Financial Markets<br><br> 
 📈 Ask Me About<br>* **The Share Market:** I have a deep interest in financial data and market trends.<br>* **Intraday Trading:** Strategies, risk management, and market technicals.<br>* **Stock Market Analytics:** How data science can be applied to predict or understand market volatility.<br><br>### ⚡ Fun Fact<br>I'm equally comfortable analyzing the torque of a car and the "bullish engulfing" pattern on a 15-minute trading chart! 🚗📈<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishnayadav97?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
